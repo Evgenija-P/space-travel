@@ -1,11 +1,12 @@
 import Login from '../../images/login.png';
+import { Link } from 'react-scroll';
 
 const NAVELEMENTS = [
-  { name: 'about us', link: '#' },
-  { name: 'price', link: '#' },
-  { name: 'services', link: '#' },
-  { name: 'guarantees', link: '#' },
-  { name: 'news', link: '#' },
+  { name: 'about us', linkId: 'about' },
+  { name: 'price', linkId: 'price' },
+  { name: 'services', linkId: 'services' },
+  { name: 'guarantees', linkId: 'guarantees' },
+  { name: 'how to', linkId: 'how' },
 ];
 
 const Menu = () => {
@@ -15,12 +16,17 @@ const Menu = () => {
         <ul className="flex">
           {NAVELEMENTS.map(el => (
             <li key={el.name} className="mr-7 last:mr-0">
-              <a
-                href={el.link}
-                className="text-lg leading-5 uppercase transition-colors ease-in-out delay-150 hover:text-accent-red focus:text-accent-red duration-300"
+              <Link
+                activeClass="active"
+                to={el.linkId}
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+                className="text-lg leading-5 uppercase cursor-pointer transition-colors ease-in-out delay-150 hover:text-accent-red focus:text-accent-red duration-300"
               >
                 {el.name}
-              </a>
+              </Link>
             </li>
           ))}
         </ul>

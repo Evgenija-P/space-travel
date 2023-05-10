@@ -4,8 +4,8 @@ import Menu from '../Menu';
 const Header = () => {
   return (
     <div className="bg-header bg-center bg-no-repeat bg-cover">
-      <div className="max-w-[1220px] mx-auto ">
-        <ul className="flex flex-col justify-between min-h-screen">
+      <div className="max-w-[1220px] mx-auto">
+        <ul className="flex flex-col justify-between min-h-screen" id="header">
           <li>
             <Menu />
           </li>

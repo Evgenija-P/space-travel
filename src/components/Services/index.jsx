@@ -3,7 +3,7 @@ import Button from '../Button';
 
 const Services = () => {
   return (
-    <div className="pb-[200px] mt-[100px]">
+    <div className="pb-[200px] mt-[100px]" id="services">
       <p className="text-6xl leading-none font-space mb-24 uppercase">
         Additional <br />
         services

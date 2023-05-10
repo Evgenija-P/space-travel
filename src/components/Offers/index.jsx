@@ -6,7 +6,10 @@ const Offers = () => {
   return (
     <div className="bg-offers bg-top bg-no-repeat bg-cover">
       <div className="max-w-[1220px] mx-auto py-20">
-        <p className="text-6xl leading-none font-space mb-24 uppercase">
+        <p
+          className="text-6xl leading-none font-space mb-24 uppercase"
+          id="price"
+        >
           special <br /> offers
         </p>
         <div className="flex justify-between">

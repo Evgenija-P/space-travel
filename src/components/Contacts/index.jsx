@@ -4,7 +4,7 @@ import Button from '../Button';
 const Contacts = () => {
   return (
     <div className="bg-[#010203]">
-      <div className="max-w-[1220px] mx-auto py-24">
+      <div className="max-w-[1220px] mx-auto py-24" id="guarantees">
         <div className="grid gap-x-24 grid-cols-2">
           <div>
             <p className="text-6xl leading-none font-space mb-11 uppercase">
