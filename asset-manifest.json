@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d301aee6.css",
-    "main.js": "/static/js/main.641ea8a1.js",
-    "static/js/787.f67af63c.chunk.js": "/static/js/787.f67af63c.chunk.js",
-    "static/media/reserve_bg.jpg": "/static/media/reserve_bg.4cf3e520b7e91e997cbb.jpg",
-    "static/media/header_bg.jpg": "/static/media/header_bg.bb582206c3d3d506b4cc.jpg",
-    "static/media/info_bg.jpg": "/static/media/info_bg.51095804a02ab1790992.jpg",
-    "static/media/footer_bg.png": "/static/media/footer_bg.4bd33153f212d6dd5a19.png",
-    "static/media/about_bg.jpg": "/static/media/about_bg.6b135cf5348d58d409c0.jpg",
-    "static/media/SF-Pro-Display-Regular.woff": "/static/media/SF-Pro-Display-Regular.30b936ecc81646787870.woff",
-    "static/media/how-to_bg.jpg": "/static/media/how-to_bg.2ce4e8943799bd3b7600.jpg",
-    "static/media/ElonMusk.png": "/static/media/ElonMusk.4b74f52646f028978abd.png",
-    "static/media/photographer.png": "/static/media/photographer.6adc0405a9498007f84e.png",
-    "static/media/spaceagecyrillic-regular.woff": "/static/media/spaceagecyrillic-regular.0d2275003bbf0ef2070f.woff",
-    "index.html": "/index.html",
-    "main.d301aee6.css.map": "/static/css/main.d301aee6.css.map",
-    "main.641ea8a1.js.map": "/static/js/main.641ea8a1.js.map",
-    "787.f67af63c.chunk.js.map": "/static/js/787.f67af63c.chunk.js.map"
+    "main.css": "/space-travel/static/css/main.953373df.css",
+    "main.js": "/space-travel/static/js/main.0f49313c.js",
+    "static/js/787.f67af63c.chunk.js": "/space-travel/static/js/787.f67af63c.chunk.js",
+    "static/media/reserve_bg.jpg": "/space-travel/static/media/reserve_bg.4cf3e520b7e91e997cbb.jpg",
+    "static/media/header_bg.jpg": "/space-travel/static/media/header_bg.bb582206c3d3d506b4cc.jpg",
+    "static/media/info_bg.jpg": "/space-travel/static/media/info_bg.51095804a02ab1790992.jpg",
+    "static/media/footer_bg.png": "/space-travel/static/media/footer_bg.4bd33153f212d6dd5a19.png",
+    "static/media/about_bg.jpg": "/space-travel/static/media/about_bg.6b135cf5348d58d409c0.jpg",
+    "static/media/SF-Pro-Display-Regular.woff": "/space-travel/static/media/SF-Pro-Display-Regular.30b936ecc81646787870.woff",
+    "static/media/how-to_bg.jpg": "/space-travel/static/media/how-to_bg.2ce4e8943799bd3b7600.jpg",
+    "static/media/ElonMusk.png": "/space-travel/static/media/ElonMusk.4b74f52646f028978abd.png",
+    "static/media/photographer.png": "/space-travel/static/media/photographer.6adc0405a9498007f84e.png",
+    "static/media/spaceagecyrillic-regular.woff": "/space-travel/static/media/spaceagecyrillic-regular.0d2275003bbf0ef2070f.woff",
+    "index.html": "/space-travel/index.html",
+    "main.953373df.css.map": "/space-travel/static/css/main.953373df.css.map",
+    "main.0f49313c.js.map": "/space-travel/static/js/main.0f49313c.js.map",
+    "787.f67af63c.chunk.js.map": "/space-travel/static/js/787.f67af63c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d301aee6.css",
-    "static/js/main.641ea8a1.js"
+    "static/css/main.953373df.css",
+    "static/js/main.0f49313c.js"
   ]
 }
