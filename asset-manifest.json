@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/space-travel/static/css/main.953373df.css",
-    "main.js": "/space-travel/static/js/main.0f49313c.js",
+    "main.css": "/space-travel/static/css/main.2e897688.css",
+    "main.js": "/space-travel/static/js/main.5f6e711c.js",
     "static/js/787.f67af63c.chunk.js": "/space-travel/static/js/787.f67af63c.chunk.js",
     "static/media/reserve_bg.jpg": "/space-travel/static/media/reserve_bg.4cf3e520b7e91e997cbb.jpg",
     "static/media/header_bg.jpg": "/space-travel/static/media/header_bg.bb582206c3d3d506b4cc.jpg",
@@ -14,12 +14,12 @@
     "static/media/photographer.png": "/space-travel/static/media/photographer.6adc0405a9498007f84e.png",
     "static/media/spaceagecyrillic-regular.woff": "/space-travel/static/media/spaceagecyrillic-regular.0d2275003bbf0ef2070f.woff",
     "index.html": "/space-travel/index.html",
-    "main.953373df.css.map": "/space-travel/static/css/main.953373df.css.map",
-    "main.0f49313c.js.map": "/space-travel/static/js/main.0f49313c.js.map",
+    "main.2e897688.css.map": "/space-travel/static/css/main.2e897688.css.map",
+    "main.5f6e711c.js.map": "/space-travel/static/js/main.5f6e711c.js.map",
     "787.f67af63c.chunk.js.map": "/space-travel/static/js/787.f67af63c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.953373df.css",
-    "static/js/main.0f49313c.js"
+    "static/css/main.2e897688.css",
+    "static/js/main.5f6e711c.js"
   ]
 }
