@@ -1,0 +1,25 @@
+.how-to__galaxy circle,
+.how-to__galaxy text,
+.how-to__galaxy foreignObject {
+  transition: all 0.5s;
+  cursor: pointer;
+}
+
+.how-to__galaxy g:hover circle {
+  r: 15px;
+  fill: #036cca;
+}
+
+.how-to__galaxy g:hover text {
+  fill: #036cca;
+  font-size: 22px;
+}
+
+.how-to__galaxy g:hover foreignObject {
+  color: #036cca;
+  font-size: 22px;
+}
+
+foreignObject {
+  text-align: left;
+}

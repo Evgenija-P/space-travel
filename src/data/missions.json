@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Virgin Galactic",
+    "photo": "https://res.cloudinary.com/dannh4de9/image/upload/v1683641000/space/main_richard-branson_p6zdrt.jpg",
+    "subtitle": "suborbital flight",
+    "text": {
+      "first": "Virgin Galactic on July 11, 2021 carried out the first tourist suborbital flight with its founder, British billionaire Richard Branson on board.",
+      "second": "Unity 22 was launched from Spaceport America in New Mexico using a VMS Eve carrier aircraft. It later separated from the carrier aircraft.",
+      "third": "Virgin Galactic hopes that massive suborbital space flights will begin before 2022."
+    },
+    "table": [
+      { "position": "travel time", "value": "1", "units": "hour" },
+      { "position": "distance", "value": "80", "units": "km" },
+      { "position": "in weightlessness", "value": "4-5", "units": "minutes" },
+      { "position": "price", "value": "250", "units": "thousand dollars" },
+      { "position": "will you come back?", "value": "99", "units": "%" }
+    ]
+  },
+  {
+    "title": "Blue Origin",
+    "photo": "https://res.cloudinary.com/dannh4de9/image/upload/v1683641000/space/main_blue_origin_dy1r0u.jpg",
+    "subtitle": "suborbital flight",
+    "text": {
+      "first": "On July 20, 2021, Blue Origin's New Shepard suborbital rocket launched a capsule with people into space for the first time in the company's history, with the richest man in the world, Jeff Bezos, on board.",
+      "second": "New Shepard, 18 m high and 4 m wide, is a reusable spacecraft. The booster unit raises the pressurized passenger ship to a height of about 76 km. The momentum propels the capsule up into space.",
+      "third": "After that, she descends to the ground under three parachutes. The launch vehicle is also returning home."
+    },
+    "table": [
+      { "position": "travel time", "value": "10", "units": "minutes" },
+      { "position": "distance", "value": "100", "units": "km" },
+      { "position": "in weightlessness", "value": "4-5", "units": "minutes" },
+      { "position": "price", "value": "250", "units": "thousand dollars" },
+      { "position": "will you come back?", "value": "99", "units": "%" }
+    ],
+    "comments": "cost 200-250 thousand dollars. even/odd or how lucky"
+  },
+  {
+    "title": "Space X",
+    "photo": "https://res.cloudinary.com/dannh4de9/image/upload/v1683641000/space/main_space_x_c997pu.jpg",
+    "subtitle": "Or maybe the Moon or Mars?",
+    "text": {
+      "first": "In 2016, at the 67th Annual International Astronautical Congress, Elon Musk stated that the optimistic timeline is for the first flight to Mars in 2022 (cargo delivery).",
+      "second": "Crewed flight - in 2024. The crew will arrive on the Red Planet in 2025-26. I started SpaceX because \"I wanted to help bring down the cost of space travel in order to establish life on another planet.\"",
+      "third": "If everything goes according to plan, then thanks to Musk, about a million people will be able to call themselves the inhabitants of the Red Planet by 2050. There they will be delivered by a flotilla of thousands of Starships."
+    },
+    "table": [
+      { "position": "travel time", "value": "150", "units": "day" },
+      { "position": "distance", "value": "55", "units": "million km" },
+      { "position": "in weightlessness", "value": "many", "units": "minutes" },
+      { "position": "price", "value": "10", "units": "billion dollars" },
+      { "position": "will you come back?", "value": "1", "units": "%" }
+    ]
+  }
+]
